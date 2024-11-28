@@ -12,7 +12,7 @@ Unreleased
 
 ### Enhancements
 
-- Update jimmidyson/configmap-reload to 0.14.0. (@duncan485)
+- Update jimmidyson/configmap-reload to 0.14.0. (@petewall)
 
 0.10.0 (2024-11-13)
 ----------
